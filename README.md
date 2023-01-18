@@ -1,5 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGKgNb_Z4BOog/profile-displaybackgroundimage-shrink_350_1400/0/1673891046817?e=1679529600&v=beta&t=-nqqfG7uQIcXrVgUD36QN3pqhB4T_EoQUK2iGk1oRJk)
 
+![Profile views](https://gpvc.arturio.dev/fd) 
 <!-- ### Hi there 👋 -->
 
 <!--
