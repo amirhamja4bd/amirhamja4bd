@@ -8,7 +8,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -22,7 +22,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<!-- Skills: MONGODB/ EXPRESS/ REACT/ Node/ JavaScript /BOOTSTRAP/ HTML / CSS
+<!-- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amirhamja4bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amirhamja656//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/amirhamja360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/amirhamja360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/amirhamja360)  
