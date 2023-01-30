@@ -21,7 +21,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/amirhamja4bd)   -->
 
-![Profile views](https://gpvc.arturio.dev/amirhamja4bd)
 
 
 
