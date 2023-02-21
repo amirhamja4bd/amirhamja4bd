@@ -34,6 +34,7 @@
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-0275d8?style=for-the-badge&logo=bootstrap&logoColor=06B6D4&labelColor=000000)](#) 
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
