@@ -36,4 +36,10 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+<h2><i>My GitHub Stats</i></h2>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyshow1&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="geekyshow1" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyshow1&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
+</p>
   
