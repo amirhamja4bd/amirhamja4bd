@@ -1,5 +1,5 @@
 <!-- Banner -->
-![I am Amir Hamza]([https://media.licdn.com/dms/image/D5616AQGKgNb_Z4BOog/profile-displaybackgroundimage-shrink_350_1400/0/1673891046817?e=1685577600&v=beta&t=26Af8WvXuoz_jk_G6fVMBcZUyXl5iQOrk1cIrSsQS_Q](https://media.licdn.com/dms/image/D5616AQGKgNb_Z4BOog/profile-displaybackgroundimage-shrink_350_1400/0/1673891046817?e=1691625600&v=beta&t=RYME089tIYRCLL9O217OixJ2xZHZnr8MwRJp3Ld--JA))
+![I am Amir Hamza](https://media.licdn.com/dms/image/D5616AQGKgNb_Z4BOog/profile-displaybackgroundimage-shrink_350_1400/0/1673891046817?e=1691625600&v=beta&t=RYME089tIYRCLL9O217OixJ2xZHZnr8MwRJp3Ld--JA)
 
 
 <br/>  
