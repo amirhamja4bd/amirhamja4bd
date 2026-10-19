@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGKgNb_Z4BOog/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673891050470?e=1790812800&v=beta&t=YoX8yBnrsaHGjRUkTVUm4JwLf6VD_1u3nVrGDQhSg5o" 
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGKgNb_Z4BOog/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673891050470?e=1793836800&v=beta&t=rWvWYZRxg19ZeQoEMiBgHvhS52zEA05sNPWMD2hsVAw" 
   alt="Amir Hamza Banner" width="100%" />
 </p>
 
